@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ASUS\\Documents\\GitHub\\reto-tecnico-tareas\\backend\\TaskManagement.Domain\\TaskManagement.Domain.csproj",
+      "projectUniqueName": "C:\\dev\\reto-tecnico-tareas\\backend\\TaskManagement.Domain\\TaskManagement.Domain.csproj",
       "projectName": "TaskManagement.Domain",
-      "projectPath": "C:\\Users\\ASUS\\Documents\\GitHub\\reto-tecnico-tareas\\backend\\TaskManagement.Domain\\TaskManagement.Domain.csproj",
+      "projectPath": "C:\\dev\\reto-tecnico-tareas\\backend\\TaskManagement.Domain\\TaskManagement.Domain.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ASUS\\Documents\\GitHub\\reto-tecnico-tareas\\backend\\TaskManagement.Domain\\obj\\",
+      "outputPath": "C:\\dev\\reto-tecnico-tareas\\backend\\TaskManagement.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

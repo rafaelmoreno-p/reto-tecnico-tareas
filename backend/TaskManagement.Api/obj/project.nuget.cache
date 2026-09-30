@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bSKz1aRvJyo=",
+  "dgSpecHash": "sPX8gRvfjI8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ASUS\\Documents\\GitHub\\reto-tecnico-tareas\\backend\\TaskManagement.Api\\TaskManagement.Api.csproj",
+  "projectFilePath": "C:\\dev\\reto-tecnico-tareas\\backend\\TaskManagement.Api\\TaskManagement.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.11\\microsoft.aspnetcore.openapi.10.0.11.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.bcl.cryptography\\9.0.18\\microsoft.bcl.cryptography.9.0.18.nupkg.sha512",
